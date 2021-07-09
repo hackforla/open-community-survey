@@ -10,7 +10,7 @@ View the [Open Community Survey One Sheet](https://docs.google.com/document/d/1o
 
 - [Github project board](https://github.com/hackforla/open-community-survey/projects/1)
 - [Slack](https://hackforla.slack.com/archives/C01H0HUDMCK)
-- [Google Drive](https://drive.google.com/drive/u/0/folders/1i7-eXwgtjBfSj0XWAmy-vuusjtKfaYZq)
+- [Google Drive](https://drive.google.com/drive/u/0/folders/0ADDj1EJQnl75Uk9PVA)
 - [Figma](https://www.figma.com/file/fwmwO98SfCFXufXXg0WWIu/Hack-For-LA---OCS-(Standard-Version)?node-id=0%3A1)
 
 
