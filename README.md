@@ -4,7 +4,7 @@ Hack for LA’s **Open Community Survey** project creates constructive community
 
 ### Project context
 
-View the [Open Community Survey One Sheet](https://docs.google.com/document/d/1oiCWwN0aUZEYXa_ir2n0l6D47fkXqFEQFkh4YMW3CjY/edit)
+View the [Open Community Survey One Sheet](https://docs.google.com/document/d/1oiCWwN0aUZEYXa_ir2n0l6D47fkXqFEQFkh4YMW3CjY/preview)
 
 ### Technology used
 
